@@ -1,15 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XibTableCellDesign/MyTableViewSource.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XibTableCellDesign/MyTableViewController.cs">
     <Files>
-      <File FileName="XibTableCellDesign/AppDelegate.cs" Line="2" Column="2" />
-      <File FileName="XibTableCellDesign/MyTableViewController.cs" Line="23" Column="23" />
+      <File FileName="XibTableCellDesign/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XibTableCellDesign/MyTableViewController.cs" Line="3" Column="3" />
       <File FileName="XibTableCellDesign/MyCustomCell.cs" Line="1" Column="1" />
       <File FileName="XibTableCellDesign/MyCustomCell.designer.cs" Line="1" Column="1" />
-      <File FileName="XibTableCellDesign/Conference.cs" Line="3" Column="3" />
-      <File FileName="XibTableCellDesign/MyTableViewSource.cs" Line="22" Column="22" />
+      <File FileName="XibTableCellDesign/Conference.cs" Line="1" Column="1" />
+      <File FileName="XibTableCellDesign/MyTableViewSource.cs" Line="33" Column="33" />
       <File FileName="XibTableCellDesign/ConferenceRepository.cs" Line="1" Column="1" />
-      <File FileName="XibTableCellDesign/Main.cs" Line="2" Column="2" />
+      <File FileName="XibTableCellDesign/Main.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

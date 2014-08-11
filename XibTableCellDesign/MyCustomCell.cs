@@ -23,6 +23,7 @@ namespace XibTableCellDesign
 		public override void LayoutSubviews ()
 		{
 			base.LayoutSubviews ();
+
 			this.ConferenceName.Text = Model.Name;
 			this.ConferenceStart.Text = Model.StartDate.ToShortDateString ();
 			this.ConferenceDescription.Text = Model.Description;
